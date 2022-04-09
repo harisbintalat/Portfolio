@@ -17,23 +17,19 @@ const Services = () => {
                     <ul className="service__list">
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>Prototyping</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>Responsive Web Design</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>Mobile App Design</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>User Personas and Scenario Building </p>
                         </li>
                     </ul>
                 </article>
@@ -45,23 +41,19 @@ const Services = () => {
                     <ul className="service__list">
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>Full-Stack Web Development.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>E-commerce Applications.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>Content Management Systems (CMS)</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>Web Support and Maintenance.</p>
                         </li>
                     </ul>
                 </article>
@@ -73,23 +65,11 @@ const Services = () => {
                     <ul className="service__list">
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>Social Media Marketing</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Lorem, ashda asdsjad aisdjsadsiodj oas</p>
+                            <p>Google Ads</p>
                         </li>
                     </ul>
                 </article>
